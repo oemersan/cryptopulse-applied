@@ -1,0 +1,47 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Airflow runtime
+dags/__pycache__/
+logs/
+plugins/__pycache__/
+airflow.cfg
+airflow.db
+webserver_config.py
+standalone_admin_password.txt
+
+# Data (we keep only small samples in data/sample/)
+data/raw/
+data/processed/
+*.parquet
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# OS
+desktop.ini
+
+# Docker volumes (named volumes are managed by Docker; this is for any stray bind mounts)
+postgres-data/
+elasticsearch-data/

@@ -1,0 +1,18 @@
+# Force LF line endings for shell scripts and config files,
+# regardless of the OS the team member commits from.
+# This prevents Windows-checked-in CRLF from breaking inside Linux containers.
+
+* text=auto eol=lf
+
+*.sh   text eol=lf
+*.py   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.sql  text eol=lf
+*.env  text eol=lf
+Dockerfile text eol=lf
+
+# Binaries
+*.png binary
+*.jpg binary
+*.pdf binary

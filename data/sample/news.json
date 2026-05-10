@@ -1,0 +1,2102 @@
+[
+  {
+    "source": "coindesk",
+    "title": "Analysts call Solana breakout 'historic' after volume surge",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/0-solana",
+    "published_at": "2026-05-08T10:00:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum drops sharply as exchange outflows climb",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/1-ethereum",
+    "published_at": "2026-05-09T13:54:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/2-cardano",
+    "published_at": "2026-05-07T12:10:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/3-xrp",
+    "published_at": "2026-05-07T20:28:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin rallies as institutional inflows accelerate",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/4-bitcoin",
+    "published_at": "2026-05-09T08:53:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana rallies as institutional inflows accelerate",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/5-solana",
+    "published_at": "2026-05-08T07:54:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/6-bitcoin",
+    "published_at": "2026-05-08T02:17:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/7-cardano",
+    "published_at": "2026-05-08T18:52:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/8-cardano",
+    "published_at": "2026-05-08T10:16:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/9-cardano",
+    "published_at": "2026-05-07T00:03:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano slides as regulators signal new restrictions",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/10-cardano",
+    "published_at": "2026-05-08T11:52:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits XRP amid macro uncertainty",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/11-xrp",
+    "published_at": "2026-05-08T12:20:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Solana amid macro uncertainty",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/12-solana",
+    "published_at": "2026-05-06T18:52:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Solana amid macro uncertainty",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/13-solana",
+    "published_at": "2026-05-07T16:03:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call XRP breakout 'historic' after volume surge",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/14-xrp",
+    "published_at": "2026-05-08T16:41:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano slides as regulators signal new restrictions",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/15-cardano",
+    "published_at": "2026-05-07T01:57:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum rallies as institutional inflows accelerate",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/16-ethereum",
+    "published_at": "2026-05-07T05:02:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Ethereum amid macro uncertainty",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/17-ethereum",
+    "published_at": "2026-05-09T07:03:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/18-xrp",
+    "published_at": "2026-05-07T19:30:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Cardano roadmap",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/19-cardano",
+    "published_at": "2026-05-08T15:47:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin ETF approval fuels broad market optimism",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/20-bitcoin",
+    "published_at": "2026-05-07T04:20:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin slides as regulators signal new restrictions",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/21-bitcoin",
+    "published_at": "2026-05-09T12:32:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/22-xrp",
+    "published_at": "2026-05-09T09:08:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call XRP breakout 'historic' after volume surge",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/23-xrp",
+    "published_at": "2026-05-09T12:02:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/24-cardano",
+    "published_at": "2026-05-07T12:49:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Solana roadmap",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/25-solana",
+    "published_at": "2026-05-09T12:25:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits Solana amid macro uncertainty",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/26-solana",
+    "published_at": "2026-05-08T21:59:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on Cardano roadmap",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/27-cardano",
+    "published_at": "2026-05-07T09:13:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/28-cardano",
+    "published_at": "2026-05-09T01:42:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Solana drops sharply as exchange outflows climb",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/29-solana",
+    "published_at": "2026-05-08T04:43:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/30-ethereum",
+    "published_at": "2026-05-07T18:13:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Analysts call XRP breakout 'historic' after volume surge",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/31-xrp",
+    "published_at": "2026-05-09T09:00:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/32-ethereum",
+    "published_at": "2026-05-08T13:50:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana drops sharply as exchange outflows climb",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/33-solana",
+    "published_at": "2026-05-07T18:28:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP ETF approval fuels broad market optimism",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/34-xrp",
+    "published_at": "2026-05-08T09:27:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum rallies as institutional inflows accelerate",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/35-ethereum",
+    "published_at": "2026-05-09T14:05:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/36-cardano",
+    "published_at": "2026-05-07T18:52:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP slides as regulators signal new restrictions",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/37-xrp",
+    "published_at": "2026-05-07T09:03:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin community votes on governance proposal",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/38-bitcoin",
+    "published_at": "2026-05-08T08:52:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/39-xrp",
+    "published_at": "2026-05-06T23:25:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Sell-off hits Solana amid macro uncertainty",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/40-solana",
+    "published_at": "2026-05-06T19:28:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/41-bitcoin",
+    "published_at": "2026-05-07T22:32:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/42-bitcoin",
+    "published_at": "2026-05-06T22:47:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/43-cardano",
+    "published_at": "2026-05-06T21:03:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Analysts call XRP breakout 'historic' after volume surge",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/44-xrp",
+    "published_at": "2026-05-08T02:54:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/45-cardano",
+    "published_at": "2026-05-06T19:11:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum rallies as institutional inflows accelerate",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/46-ethereum",
+    "published_at": "2026-05-06T23:40:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/47-bitcoin",
+    "published_at": "2026-05-09T09:08:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana drops sharply as exchange outflows climb",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/48-solana",
+    "published_at": "2026-05-09T06:08:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/49-xrp",
+    "published_at": "2026-05-09T13:29:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on Cardano roadmap",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/50-cardano",
+    "published_at": "2026-05-06T20:10:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP slides as regulators signal new restrictions",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/51-xrp",
+    "published_at": "2026-05-08T11:21:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Sell-off hits Ethereum amid macro uncertainty",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/52-ethereum",
+    "published_at": "2026-05-09T00:30:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/53-xrp",
+    "published_at": "2026-05-07T17:22:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/54-bitcoin",
+    "published_at": "2026-05-08T21:04:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/55-ethereum",
+    "published_at": "2026-05-07T12:54:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP rallies as institutional inflows accelerate",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/56-xrp",
+    "published_at": "2026-05-06T22:51:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Analysts call Cardano breakout 'historic' after volume surge",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/57-cardano",
+    "published_at": "2026-05-09T00:23:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin rallies as institutional inflows accelerate",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/58-bitcoin",
+    "published_at": "2026-05-07T07:49:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana slides as regulators signal new restrictions",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/59-solana",
+    "published_at": "2026-05-08T18:29:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/60-bitcoin",
+    "published_at": "2026-05-09T12:38:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Cardano breakout 'historic' after volume surge",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/61-cardano",
+    "published_at": "2026-05-07T21:02:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/62-cardano",
+    "published_at": "2026-05-07T22:35:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana rallies as institutional inflows accelerate",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/63-solana",
+    "published_at": "2026-05-09T11:28:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum drops sharply as exchange outflows climb",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/64-ethereum",
+    "published_at": "2026-05-09T00:47:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/65-cardano",
+    "published_at": "2026-05-09T01:57:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/66-xrp",
+    "published_at": "2026-05-08T21:17:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/67-ethereum",
+    "published_at": "2026-05-06T23:59:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/68-cardano",
+    "published_at": "2026-05-07T12:40:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana drops sharply as exchange outflows climb",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/69-solana",
+    "published_at": "2026-05-08T23:01:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/70-bitcoin",
+    "published_at": "2026-05-07T03:53:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/71-xrp",
+    "published_at": "2026-05-07T10:28:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/72-bitcoin",
+    "published_at": "2026-05-07T11:03:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Analysts call Cardano breakout 'historic' after volume surge",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/73-cardano",
+    "published_at": "2026-05-09T07:12:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on Bitcoin roadmap",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/74-bitcoin",
+    "published_at": "2026-05-09T08:49:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin weekly recap: range-bound trading continues",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/75-bitcoin",
+    "published_at": "2026-05-07T17:48:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/76-ethereum",
+    "published_at": "2026-05-07T14:27:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/77-ethereum",
+    "published_at": "2026-05-07T21:38:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum rallies as institutional inflows accelerate",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/78-ethereum",
+    "published_at": "2026-05-07T17:25:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/79-cardano",
+    "published_at": "2026-05-06T17:10:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Solana roadmap",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/80-solana",
+    "published_at": "2026-05-09T12:50:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on Solana roadmap",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/81-solana",
+    "published_at": "2026-05-09T08:54:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/82-cardano",
+    "published_at": "2026-05-06T17:52:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin slides as regulators signal new restrictions",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/83-bitcoin",
+    "published_at": "2026-05-06T21:27:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Ethereum amid macro uncertainty",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/84-ethereum",
+    "published_at": "2026-05-07T20:52:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum drops sharply as exchange outflows climb",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/85-ethereum",
+    "published_at": "2026-05-07T08:58:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits XRP amid macro uncertainty",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/86-xrp",
+    "published_at": "2026-05-07T22:54:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Solana drops sharply as exchange outflows climb",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/87-solana",
+    "published_at": "2026-05-09T07:26:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Solana drops sharply as exchange outflows climb",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/88-solana",
+    "published_at": "2026-05-08T22:01:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano slides as regulators signal new restrictions",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/89-cardano",
+    "published_at": "2026-05-09T10:42:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/90-ethereum",
+    "published_at": "2026-05-08T17:53:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/91-xrp",
+    "published_at": "2026-05-07T02:52:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP slides as regulators signal new restrictions",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/92-xrp",
+    "published_at": "2026-05-07T01:34:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Analysts call Ethereum breakout 'historic' after volume surge",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/93-ethereum",
+    "published_at": "2026-05-09T00:23:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on Solana roadmap",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/94-solana",
+    "published_at": "2026-05-06T22:59:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin rallies as institutional inflows accelerate",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/95-bitcoin",
+    "published_at": "2026-05-08T12:21:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin community votes on governance proposal",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/96-bitcoin",
+    "published_at": "2026-05-06T18:46:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Solana rallies as institutional inflows accelerate",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/97-solana",
+    "published_at": "2026-05-09T07:08:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/98-xrp",
+    "published_at": "2026-05-07T23:55:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/99-ethereum",
+    "published_at": "2026-05-08T17:17:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum rallies as institutional inflows accelerate",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/100-ethereum",
+    "published_at": "2026-05-08T01:03:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP community votes on governance proposal",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/101-xrp",
+    "published_at": "2026-05-07T07:27:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Sell-off hits XRP amid macro uncertainty",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/102-xrp",
+    "published_at": "2026-05-07T00:17:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/103-xrp",
+    "published_at": "2026-05-09T11:24:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/104-cardano",
+    "published_at": "2026-05-09T15:09:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits XRP amid macro uncertainty",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/105-xrp",
+    "published_at": "2026-05-07T09:45:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana ETF approval fuels broad market optimism",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/106-solana",
+    "published_at": "2026-05-07T04:20:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/107-cardano",
+    "published_at": "2026-05-07T04:26:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/108-bitcoin",
+    "published_at": "2026-05-07T18:36:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/109-cardano",
+    "published_at": "2026-05-07T01:05:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/110-bitcoin",
+    "published_at": "2026-05-07T08:56:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin slides as regulators signal new restrictions",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/111-bitcoin",
+    "published_at": "2026-05-07T10:26:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum rallies as institutional inflows accelerate",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/112-ethereum",
+    "published_at": "2026-05-07T17:28:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on Cardano roadmap",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/113-cardano",
+    "published_at": "2026-05-07T10:34:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Analysts call Cardano breakout 'historic' after volume surge",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/114-cardano",
+    "published_at": "2026-05-08T11:04:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano slides as regulators signal new restrictions",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/115-cardano",
+    "published_at": "2026-05-08T12:50:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP ETF approval fuels broad market optimism",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/116-xrp",
+    "published_at": "2026-05-08T16:08:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana ETF approval fuels broad market optimism",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/117-solana",
+    "published_at": "2026-05-07T11:29:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP community votes on governance proposal",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/118-xrp",
+    "published_at": "2026-05-07T08:58:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum community votes on governance proposal",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/119-ethereum",
+    "published_at": "2026-05-07T06:54:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/120-xrp",
+    "published_at": "2026-05-06T19:34:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/121-xrp",
+    "published_at": "2026-05-09T05:17:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Solana roadmap",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/122-solana",
+    "published_at": "2026-05-06T16:34:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/123-xrp",
+    "published_at": "2026-05-08T20:32:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Ethereum breakout 'historic' after volume surge",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/124-ethereum",
+    "published_at": "2026-05-08T21:11:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum weekly recap: range-bound trading continues",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/125-ethereum",
+    "published_at": "2026-05-06T21:50:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP rallies as institutional inflows accelerate",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/126-xrp",
+    "published_at": "2026-05-07T03:14:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP rallies as institutional inflows accelerate",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/127-xrp",
+    "published_at": "2026-05-09T00:46:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/128-cardano",
+    "published_at": "2026-05-09T13:37:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/129-xrp",
+    "published_at": "2026-05-07T03:00:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP ETF approval fuels broad market optimism",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/130-xrp",
+    "published_at": "2026-05-07T08:27:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/131-cardano",
+    "published_at": "2026-05-09T13:55:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/132-xrp",
+    "published_at": "2026-05-09T13:00:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/133-cardano",
+    "published_at": "2026-05-08T22:47:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/134-cardano",
+    "published_at": "2026-05-08T15:24:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/135-cardano",
+    "published_at": "2026-05-07T14:26:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/136-xrp",
+    "published_at": "2026-05-08T14:52:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/137-bitcoin",
+    "published_at": "2026-05-09T12:13:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/138-ethereum",
+    "published_at": "2026-05-09T02:00:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum slides as regulators signal new restrictions",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/139-ethereum",
+    "published_at": "2026-05-09T01:00:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano weekly recap: range-bound trading continues",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/140-cardano",
+    "published_at": "2026-05-08T06:11:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano slides as regulators signal new restrictions",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/141-cardano",
+    "published_at": "2026-05-09T10:42:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP rallies as institutional inflows accelerate",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/142-xrp",
+    "published_at": "2026-05-08T18:13:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum drops sharply as exchange outflows climb",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/143-ethereum",
+    "published_at": "2026-05-07T22:51:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Solana roadmap",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/144-solana",
+    "published_at": "2026-05-08T02:16:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/145-cardano",
+    "published_at": "2026-05-09T16:01:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum drops sharply as exchange outflows climb",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/146-ethereum",
+    "published_at": "2026-05-08T16:06:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on Bitcoin roadmap",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/147-bitcoin",
+    "published_at": "2026-05-07T05:30:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/148-cardano",
+    "published_at": "2026-05-07T10:10:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP slides as regulators signal new restrictions",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/149-xrp",
+    "published_at": "2026-05-09T10:27:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin weekly recap: range-bound trading continues",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/150-bitcoin",
+    "published_at": "2026-05-07T20:27:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/151-bitcoin",
+    "published_at": "2026-05-07T07:23:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/152-cardano",
+    "published_at": "2026-05-08T13:39:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/153-ethereum",
+    "published_at": "2026-05-09T07:29:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Ethereum amid macro uncertainty",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/154-ethereum",
+    "published_at": "2026-05-07T06:35:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin weekly recap: range-bound trading continues",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/155-bitcoin",
+    "published_at": "2026-05-07T14:53:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Sell-off hits Cardano amid macro uncertainty",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/156-cardano",
+    "published_at": "2026-05-07T04:29:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum slides as regulators signal new restrictions",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/157-ethereum",
+    "published_at": "2026-05-07T18:11:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana rallies as institutional inflows accelerate",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/158-solana",
+    "published_at": "2026-05-07T01:06:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/159-ethereum",
+    "published_at": "2026-05-07T22:12:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/160-cardano",
+    "published_at": "2026-05-07T22:26:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano weekly recap: range-bound trading continues",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/161-cardano",
+    "published_at": "2026-05-08T09:27:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum slides as regulators signal new restrictions",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/162-ethereum",
+    "published_at": "2026-05-07T05:20:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin ETF approval fuels broad market optimism",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/163-bitcoin",
+    "published_at": "2026-05-08T15:12:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP slides as regulators signal new restrictions",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/164-xrp",
+    "published_at": "2026-05-08T09:58:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano weekly recap: range-bound trading continues",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/165-cardano",
+    "published_at": "2026-05-07T06:10:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana ETF approval fuels broad market optimism",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/166-solana",
+    "published_at": "2026-05-08T07:29:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP slides as regulators signal new restrictions",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/167-xrp",
+    "published_at": "2026-05-07T02:55:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits Solana amid macro uncertainty",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/168-solana",
+    "published_at": "2026-05-07T07:31:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP community votes on governance proposal",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/169-xrp",
+    "published_at": "2026-05-09T15:42:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/170-cardano",
+    "published_at": "2026-05-08T15:22:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Sell-off hits Ethereum amid macro uncertainty",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/171-ethereum",
+    "published_at": "2026-05-09T02:43:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/172-ethereum",
+    "published_at": "2026-05-07T07:40:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Analysts call XRP breakout 'historic' after volume surge",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/173-xrp",
+    "published_at": "2026-05-07T17:04:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/174-cardano",
+    "published_at": "2026-05-07T23:03:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call XRP breakout 'historic' after volume surge",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/175-xrp",
+    "published_at": "2026-05-07T11:34:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/176-cardano",
+    "published_at": "2026-05-08T04:06:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano slides as regulators signal new restrictions",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/177-cardano",
+    "published_at": "2026-05-07T11:22:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum rallies as institutional inflows accelerate",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/178-ethereum",
+    "published_at": "2026-05-09T15:40:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/179-bitcoin",
+    "published_at": "2026-05-07T18:59:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/180-cardano",
+    "published_at": "2026-05-07T10:23:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum community votes on governance proposal",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/181-ethereum",
+    "published_at": "2026-05-07T11:14:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/182-xrp",
+    "published_at": "2026-05-08T11:18:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin weekly recap: range-bound trading continues",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/183-bitcoin",
+    "published_at": "2026-05-07T06:52:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/184-cardano",
+    "published_at": "2026-05-08T14:22:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/185-xrp",
+    "published_at": "2026-05-07T04:02:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/186-bitcoin",
+    "published_at": "2026-05-09T09:30:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits XRP amid macro uncertainty",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/187-xrp",
+    "published_at": "2026-05-07T12:53:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/188-xrp",
+    "published_at": "2026-05-07T05:46:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum weekly recap: range-bound trading continues",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/189-ethereum",
+    "published_at": "2026-05-08T05:55:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/190-cardano",
+    "published_at": "2026-05-07T01:20:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/191-ethereum",
+    "published_at": "2026-05-07T22:25:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin ETF approval fuels broad market optimism",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/192-bitcoin",
+    "published_at": "2026-05-06T17:43:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana community votes on governance proposal",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/193-solana",
+    "published_at": "2026-05-07T23:35:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/194-bitcoin",
+    "published_at": "2026-05-08T07:11:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/195-cardano",
+    "published_at": "2026-05-08T23:14:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits Solana amid macro uncertainty",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/196-solana",
+    "published_at": "2026-05-08T13:00:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/197-bitcoin",
+    "published_at": "2026-05-08T17:02:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call XRP breakout 'historic' after volume surge",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/198-xrp",
+    "published_at": "2026-05-08T09:04:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana ETF approval fuels broad market optimism",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/199-solana",
+    "published_at": "2026-05-07T08:24:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits XRP amid macro uncertainty",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/200-xrp",
+    "published_at": "2026-05-09T12:28:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/201-cardano",
+    "published_at": "2026-05-07T12:19:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/202-cardano",
+    "published_at": "2026-05-08T01:09:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano rallies as institutional inflows accelerate",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/203-cardano",
+    "published_at": "2026-05-08T22:32:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Cardano breakout 'historic' after volume surge",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/204-cardano",
+    "published_at": "2026-05-08T20:32:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/205-cardano",
+    "published_at": "2026-05-08T19:38:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum weekly recap: range-bound trading continues",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/206-ethereum",
+    "published_at": "2026-05-07T12:20:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/207-cardano",
+    "published_at": "2026-05-09T12:55:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin ETF approval fuels broad market optimism",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/208-bitcoin",
+    "published_at": "2026-05-09T11:55:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP ETF approval fuels broad market optimism",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/209-xrp",
+    "published_at": "2026-05-08T11:18:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/210-bitcoin",
+    "published_at": "2026-05-09T06:42:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Ethereum amid macro uncertainty",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/211-ethereum",
+    "published_at": "2026-05-07T20:07:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/212-xrp",
+    "published_at": "2026-05-09T09:53:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Solana ETF approval fuels broad market optimism",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/213-solana",
+    "published_at": "2026-05-09T07:50:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/214-cardano",
+    "published_at": "2026-05-09T02:16:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/215-bitcoin",
+    "published_at": "2026-05-09T02:47:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana slides as regulators signal new restrictions",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/216-solana",
+    "published_at": "2026-05-07T19:48:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano weekly recap: range-bound trading continues",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/217-cardano",
+    "published_at": "2026-05-08T01:12:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/218-cardano",
+    "published_at": "2026-05-07T16:22:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Solana breakout 'historic' after volume surge",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/219-solana",
+    "published_at": "2026-05-07T10:44:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on Cardano roadmap",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/220-cardano",
+    "published_at": "2026-05-08T23:40:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum drops sharply as exchange outflows climb",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/221-ethereum",
+    "published_at": "2026-05-06T17:42:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin slides as regulators signal new restrictions",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/222-bitcoin",
+    "published_at": "2026-05-08T11:08:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/223-ethereum",
+    "published_at": "2026-05-08T21:49:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin rallies as institutional inflows accelerate",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/224-bitcoin",
+    "published_at": "2026-05-08T14:46:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/225-cardano",
+    "published_at": "2026-05-07T22:50:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Analysts call Solana breakout 'historic' after volume surge",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/226-solana",
+    "published_at": "2026-05-07T11:43:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/227-ethereum",
+    "published_at": "2026-05-09T15:22:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/228-xrp",
+    "published_at": "2026-05-07T01:42:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Solana slides as regulators signal new restrictions",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/229-solana",
+    "published_at": "2026-05-07T20:54:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Analysts call Cardano breakout 'historic' after volume surge",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/230-cardano",
+    "published_at": "2026-05-09T09:46:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum slides as regulators signal new restrictions",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/231-ethereum",
+    "published_at": "2026-05-08T17:05:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/232-bitcoin",
+    "published_at": "2026-05-07T15:01:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana rallies as institutional inflows accelerate",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/233-solana",
+    "published_at": "2026-05-09T05:53:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/234-ethereum",
+    "published_at": "2026-05-08T14:14:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano slides as regulators signal new restrictions",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/235-cardano",
+    "published_at": "2026-05-07T11:22:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/236-bitcoin",
+    "published_at": "2026-05-09T09:39:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/237-ethereum",
+    "published_at": "2026-05-08T10:48:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/238-bitcoin",
+    "published_at": "2026-05-08T06:01:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/239-bitcoin",
+    "published_at": "2026-05-07T15:19:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano weekly recap: range-bound trading continues",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/240-cardano",
+    "published_at": "2026-05-07T12:53:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin slides as regulators signal new restrictions",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/241-bitcoin",
+    "published_at": "2026-05-09T04:19:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Sell-off hits Cardano amid macro uncertainty",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/242-cardano",
+    "published_at": "2026-05-07T16:18:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP community votes on governance proposal",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/243-xrp",
+    "published_at": "2026-05-06T17:39:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP community votes on governance proposal",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/244-xrp",
+    "published_at": "2026-05-09T05:49:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Bitcoin ETF approval fuels broad market optimism",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/245-bitcoin",
+    "published_at": "2026-05-07T08:22:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on XRP roadmap",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/246-xrp",
+    "published_at": "2026-05-09T05:43:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/247-ethereum",
+    "published_at": "2026-05-07T15:16:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/248-bitcoin",
+    "published_at": "2026-05-07T17:19:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call XRP breakout 'historic' after volume surge",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/249-xrp",
+    "published_at": "2026-05-06T23:11:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/250-bitcoin",
+    "published_at": "2026-05-08T05:09:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/251-xrp",
+    "published_at": "2026-05-08T09:06:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/252-xrp",
+    "published_at": "2026-05-08T08:47:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum weekly recap: range-bound trading continues",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/253-ethereum",
+    "published_at": "2026-05-08T09:52:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum weekly recap: range-bound trading continues",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/254-ethereum",
+    "published_at": "2026-05-07T17:33:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Bitcoin amid macro uncertainty",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/255-bitcoin",
+    "published_at": "2026-05-08T16:20:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin slides as regulators signal new restrictions",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/256-bitcoin",
+    "published_at": "2026-05-07T06:57:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum drops sharply as exchange outflows climb",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/257-ethereum",
+    "published_at": "2026-05-08T19:25:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/258-bitcoin",
+    "published_at": "2026-05-07T16:53:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/259-xrp",
+    "published_at": "2026-05-09T05:21:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Ethereum ETF approval fuels broad market optimism",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/260-ethereum",
+    "published_at": "2026-05-09T07:48:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum slides as regulators signal new restrictions",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/261-ethereum",
+    "published_at": "2026-05-09T02:01:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/262-xrp",
+    "published_at": "2026-05-09T04:45:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Cardano breakout 'historic' after volume surge",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/263-cardano",
+    "published_at": "2026-05-09T07:57:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana rallies as institutional inflows accelerate",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/264-solana",
+    "published_at": "2026-05-07T02:37:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP slides as regulators signal new restrictions",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/265-xrp",
+    "published_at": "2026-05-08T03:59:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/266-bitcoin",
+    "published_at": "2026-05-07T09:21:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana weekly recap: range-bound trading continues",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/267-solana",
+    "published_at": "2026-05-07T13:28:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/268-cardano",
+    "published_at": "2026-05-06T21:54:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin community votes on governance proposal",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/269-bitcoin",
+    "published_at": "2026-05-07T23:31:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits XRP amid macro uncertainty",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/270-xrp",
+    "published_at": "2026-05-08T06:02:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Developers publish update on Solana roadmap",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/271-solana",
+    "published_at": "2026-05-07T17:31:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP weekly recap: range-bound trading continues",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/272-xrp",
+    "published_at": "2026-05-08T17:26:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Solana weekly recap: range-bound trading continues",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/273-solana",
+    "published_at": "2026-05-08T00:18:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum slides as regulators signal new restrictions",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/274-ethereum",
+    "published_at": "2026-05-08T15:20:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin slides as regulators signal new restrictions",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/275-bitcoin",
+    "published_at": "2026-05-08T04:03:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano drops sharply as exchange outflows climb",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/276-cardano",
+    "published_at": "2026-05-08T21:07:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Sell-off hits Ethereum amid macro uncertainty",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/277-ethereum",
+    "published_at": "2026-05-06T18:02:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Ethereum slides as regulators signal new restrictions",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/278-ethereum",
+    "published_at": "2026-05-09T11:24:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin weekly recap: range-bound trading continues",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/279-bitcoin",
+    "published_at": "2026-05-06T18:00:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "XRP slides as regulators signal new restrictions",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/280-xrp",
+    "published_at": "2026-05-09T00:18:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Solana slides as regulators signal new restrictions",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/281-solana",
+    "published_at": "2026-05-07T18:06:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin drops sharply as exchange outflows climb",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/282-bitcoin",
+    "published_at": "2026-05-07T01:55:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana slides as regulators signal new restrictions",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/283-solana",
+    "published_at": "2026-05-06T23:36:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Analysts call Bitcoin breakout 'historic' after volume surge",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/284-bitcoin",
+    "published_at": "2026-05-07T21:14:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Bitcoin rallies as institutional inflows accelerate",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/285-bitcoin",
+    "published_at": "2026-05-09T04:45:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP rallies as institutional inflows accelerate",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/286-xrp",
+    "published_at": "2026-05-08T16:52:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Solana rallies as institutional inflows accelerate",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/287-solana",
+    "published_at": "2026-05-07T08:46:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Analysts call Solana breakout 'historic' after volume surge",
+    "summary": "Solana traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/288-solana",
+    "published_at": "2026-05-07T15:08:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Developers publish update on Bitcoin roadmap",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/289-bitcoin",
+    "published_at": "2026-05-08T21:27:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "XRP ETF approval fuels broad market optimism",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/290-xrp",
+    "published_at": "2026-05-07T06:23:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Developers publish update on Ethereum roadmap",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/291-ethereum",
+    "published_at": "2026-05-07T15:51:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Sell-off hits Cardano amid macro uncertainty",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/292-cardano",
+    "published_at": "2026-05-09T09:18:00+00:00"
+  },
+  {
+    "source": "decrypt",
+    "title": "Ethereum rallies as institutional inflows accelerate",
+    "summary": "Ethereum traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/293-ethereum",
+    "published_at": "2026-05-08T09:08:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano ETF approval fuels broad market optimism",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/294-cardano",
+    "published_at": "2026-05-09T00:19:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano slides as regulators signal new restrictions",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/295-cardano",
+    "published_at": "2026-05-08T23:34:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "XRP drops sharply as exchange outflows climb",
+    "summary": "XRP traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/296-xrp",
+    "published_at": "2026-05-06T17:23:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/297-cardano",
+    "published_at": "2026-05-06T18:35:00+00:00"
+  },
+  {
+    "source": "coindesk",
+    "title": "Bitcoin weekly recap: range-bound trading continues",
+    "summary": "Bitcoin traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/298-bitcoin",
+    "published_at": "2026-05-07T13:00:00+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "title": "Cardano community votes on governance proposal",
+    "summary": "Cardano traders weigh latest developments. This story is part of a synthetic dataset generated for offline demo use.",
+    "link": "https://example.com/sample/299-cardano",
+    "published_at": "2026-05-07T10:51:00+00:00"
+  }
+]
