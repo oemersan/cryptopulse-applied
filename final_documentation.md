@@ -875,5 +875,3 @@ of the stack. We cap the heap at 512MB, which is plenty for a dataset of
 this size and keeps the total memory usage around 4–5GB.
 
 ---
-
-*Last updated: May 2026*
